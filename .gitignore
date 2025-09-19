@@ -1,0 +1,7 @@
+# Entorno virtual de Python
+venv/
+*.db
+
+# Archivos de sistema y caché
+__pycache__/
+.DS_Store
